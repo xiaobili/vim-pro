@@ -3,7 +3,7 @@
   "name": "vim-pro",
   "title": "VIM PRO",
   "description": "Vim Bro - Search Vim Commands",
-  "icon": "command-icon.png",
+  "icon": "vim.png",
   "author": "xiaobili",
   "owner": "billyjr",
   "categories": [
@@ -13,8 +13,8 @@
   "commands": [
     {
       "name": "vim-command",
-      "title": "vim-command",
-      "subtitle": "Search Commands",
+      "title": "Search Commands",
+      "subtitle": "Vim",
       "description": "Search Vim commands",
       "mode": "view"
     }
